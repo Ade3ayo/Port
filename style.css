@@ -338,6 +338,10 @@ textarea::placeholder {
     display: block;
   }
 
+  section {
+    padding: 40px 12%;
+  }
+
   .home {
     flex-direction: column-reverse;
     gap: 80px;
